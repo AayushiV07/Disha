@@ -1,0 +1,23 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    padding-top: 60px;
+    align-items: center;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+     background-color: aliceblue;
+}
+
+
+.content {
+    height: fit-content;
+    width: 90vw;
+    background-color: rgb(255, 255, 255, 0.8);
+    font-size: 1.5rem;
+    line-height: 40px;
+    padding-top: 20px;
+}
+
+.content br{
+    margin-top: 10px;
+}

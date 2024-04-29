@@ -11,7 +11,7 @@ Disha is a web app that promotes employment by giving a chance to locals to use 
 **Information Check**: Before sending the information of the guide to the backend, it is first cheked by the moderator to authenticate the information, then only will the person be allowed to become a guide, and if implemented in real-world scenarios a police check can be kept as well.
 
 ### _Installation_
-Clone the repository: https://github.com/sanchitaa14/disha/
+Clone the repository: https://github.com/AayushiV07/Disha.git
 
 ``` git clone ``` 
 Install dependencies:
